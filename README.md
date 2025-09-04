@@ -170,8 +170,8 @@ Click on the preview to open the full document:
   <a href="./pictures/Certificate.jpg">
     <img src="./pictures/Certificate.jpg" width="83" alt="lct" title="Click to open">
   </a>
-  <a href="./pictures/РГ[Неделя]19.06.24.jpg">
-    <img src="./pictures/РГ[Неделя]19.06.24.jpg" width="180" alt="РГ[Неделя]19.06.24" title="Click to open">
+  <a href="pictures/РГ_Неделя_19.06.24.jpg">
+    <img src="pictures/РГ_Неделя_19.06.24.jpg" width="180" alt="РГ[Неделя]19.06.24" title="Click to open">
   </a>
 </div>
 
