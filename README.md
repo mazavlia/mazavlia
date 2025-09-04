@@ -1,44 +1,46 @@
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Привет, я Марина!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70px"> Hello, I'm Marina Zaporozhets!
 </h2>
 
-<!-- Анимация с эффектом печати -->
+<!-- Typing animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0CF72A&center=true&vCenter=true&width=435&lines=Data+Engineer;DevOps+Engineer;LLM+Ops+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
-## 👋 Обо мне
+## 👋 About Me
 
 **Data Engineer | DevOps Engineer** 
 
-Специализируюсь на проектировании и автоматизации **масштабируемых ETL/ELT-пайплайнов**, построении **надёжной инфраструктуры на облачных платформах (AWS/GCP)** и внедрении **CI/CD-процессов для data-приложений**. Уверенно работаю с оркестрацией задач, контейнеризацией, мониторингом и развёртыванием ML-моделей.
+Specializing in designing and automating **scalable ETL/ELT pipelines**, building **reliable cloud infrastructure (AWS/GCP)** and implementing **CI/CD processes for data applications**. Proficient in task orchestration, containerization, monitoring and ML model deployment.
 
-**🔄 Почему Data Engineer & DevOps Engineer?**
+**🔄 Why Data Engineer & DevOps Engineer?**
 
-Моя профессиональная деятельность находится на **стыке data-инженерии и инфраструктурной автоматизации**, где я сочетаю навыки построения **надёжных data-пайплайнов** с умением настраивать **масштабируемую, отказоустойчивую и автоматизированную инфраструктуру**.
+My professional work lies at the **intersection of data engineering and infrastructure automation**, where I combine skills in building **reliable data pipelines** with the ability to configure **scalable, fault-tolerant and automated infrastructure**.
 
-Я не просто обрабатываю данные — я обеспечиваю **их бесперебойный поток** от источника до аналитики, используя:
-- Оркестрацию задач (Airflow, Kubernetes),
-- Контейнеризацию и развёртывание (Docker, Helm),
-- Автоматизацию инфраструктуры (Terraform, Ansible),
-- CI/CD для data-приложений (GitLab CI, GitHub Actions),
-- Мониторинг и логирование (Prometheus, Grafana).
+I don't just process data - I ensure **its uninterrupted flow** from source to analytics using:
+- Task orchestration (Airflow, Kubernetes),
+- Containerization and deployment (Docker, Helm),
+- Infrastructure automation (Terraform, Ansible),
+- CI/CD for data applications (GitLab CI, GitHub Actions),
+- Monitoring and logging (Prometheus, Grafana).
 
-Такой гибридный подход позволяет мне **полностью контролировать жизненный цикл данных** — от сбора и трансформации до развёртывания ML-моделей и поддержки production-среды.
+This hybrid approach allows me to **fully control the data lifecycle** - from collection and transformation to ML model deployment and production environment support.
 
----
-
-## 📞 Контакты
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/mazavlia)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mazavlia@mail.ru)
-[![VK](https://img.shields.io/badge/VK-4A76A8?style=flat&logo=vk&logoColor=white)](https://vk.com/mazavlia)
+**🎓 Currently a 2nd year Master's student** at Tyumen Industrial University, majoring in **"Neural Network Technologies in Automated Control Systems"**.
 
 ---
 
-## 📊 Активность на GitHub
+## 📞 Contacts
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mazavlia)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazavlia@mail.ru)
+[![VK](https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/mazavlia)
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mazavlia&theme=solarized_dark" />
@@ -57,9 +59,8 @@
 ---
 
 <div align="center">
-<img src="./svg/github-snake.svg" alt="Snake" width="80%" />
+  <img src="./svg/github-snake.svg" alt="Snake" width="80%" />
 </div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -101,62 +102,62 @@
 
 ---
 
-## 💼 Опыт работы
+## 💼 Work Experience
 
-### **ООО "1Т"** — Data Engineer / DevOps Engineer
+### **1T LLC** — Data Engineer / DevOps Engineer
+ 
+**Employment period:** 
+- *June 2023 — December 2023* - Training and internship
+- *December 2023 — August 2025* - Employment
 
-**Период работы:** 
-- *Июнь 2023 — Декабрь 2023* - Обучение и стажировка
-- *Декабрь 2023 — настоящее время* - Трудоустройство в компании
+**Key responsibilities and achievements:**
+- 🚀 Development and support of ETL/ELT pipelines using **Apache Airflow**
+- 🐳 Containerization and deployment of services (including LLM) using **Docker**
+- ⚙️ Task orchestration and data pipeline management (DAGs)
+- 🔄 Setting up **CI/CD** for automatic code delivery and container builds
+- 🖥️ Linux server administration (Ubuntu), security configuration
+- 📊 Performance monitoring via **Prometheus and Grafana**
+- 🗄️ Design and optimization of **PostgreSQL** and **ClickHouse**
+- 🌐 Implementation of **REST API on FastAPI** with Hugging Face integration
+- 🔁 Data replication via **Debezium + Kafka + Zookeeper**
+- ⚡ Performance optimization: caching, GPU acceleration
+- 👥 Teamwork using **SCRUM**, documentation in **Confluence**
 
-**Ключевые обязанности и достижения:**
-- 🚀 Разработка и поддержка ETL/ELT-пайплайнов с использованием **Apache Airflow**
-- 🐳 Контейнеризация и развёртывание сервисов (включая LLM) с помощью **Docker**
-- ⚙️ Оркестрация задач и управление конвейерами данных (DAGs)
-- 🔄 Настройка **CI/CD** для автоматической доставки кода и сборки контейнеров
-- 🖥️ Администрирование Linux-серверов (Ubuntu), настройка безопасности
-- 📊 Мониторинг производительности через **Prometheus и Grafana**
-- 🗄️ Проектирование и оптимизация **PostgreSQL** и **ClickHouse**
-- 🌐 Реализация **REST API на FastAPI** с интеграцией Hugging Face
-- 🔁 Репликация данных через **Debezium + Kafka + Zookeeper**
-- ⚡ Оптимизация производительности: кэширование, GPU-ускорение
-- 👥 Командная работа по **SCRUM**, документация в **Confluence**
-
-**Дополнительная деятельность:**
-- 👨‍💻 **TeamLead** стажёрской команды по направлению DevOps
-- 🎓 **Младший преподаватель** на курсах [data.1t.ru](https://data.1t.ru) (курс "Архитектор данных")
+**Additional activities:**
+- 👨‍💻 **TeamLead** of the DevOps intern team
+- 🎓 **Junior teacher** at [data.1t.ru](https://data.1t.ru) courses ("Data Architect" course)
 
 ---
 
-## 📜 Сертификаты и дипломы
+## 📜 Certificates & Diplomas
 
 <div align="center">
   <a href="./pictures/ATiSO.jpg">
-    <img src="./pictures/ATiSO.jpg" width="180" alt="Диплом ATiSO" title="Диплом ATiSO">
+    <img src="./pictures/ATiSO.jpg" width="180" alt="ATiSO Diploma" title="ATiSO Diploma">
   </a>
   <a href="./pictures/data_engineer.jpeg">
-    <img src="./pictures/data_engineer.jpeg" width="180" alt="Сертификат Data Engineer" title="Сертификат Data Engineer">
+    <img src="./pictures/data_engineer.jpeg" width="180" alt="Data Engineer Certificate" title="Data Engineer Certificate">
   </a>
   <a href="./pictures/МГТУ_Баумана.jpg">
-    <img src="./pictures/МГТУ_Баумана.jpg" width="180" alt="Сертификат МГТУ" title="Сертификат МГТУ">
+    <img src="./pictures/МГТУ_Баумана.jpg" width="180" alt="BMSTU Certificate" title="BMSTU Certificate">
   </a>
   <a href="./pictures/Cert_DO.jpg">
-    <img src="./pictures/Cert_DO.jpg" width="180" alt="Сертификат DO" title="Сертификат DO">
+    <img src="./pictures/Cert_DO.jpg" width="180" alt="DO Certificate" title="DO Certificate">
   </a>
   <a href="./pictures/tech_analyst.jpg">
-    <img src="./pictures/tech_analyst.jpg" width="180" alt="Сертификат Technical Analyst" title="Сертификат Technical Analyst">
+    <img src="./pictures/tech_analyst.jpg" width="180" alt="Technical Analyst Certificate" title="Technical Analyst Certificate">
   </a>
 </div>
 
-## 📄 Другие документы
+## 📄 Other Documents
 
 <div align="center">
   <a href="./pictures/Certificate.jpg">
-    <img src="./pictures/Certificate.jpg" width="83" alt="Сертификат" title="Сертификат">
+    <img src="./pictures/Certificate.jpg" width="83" alt="Certificate" title="Certificate">
   </a>
   <a href="./pictures/РГ_Неделя_19.06.24.jpg">
-    <img src="./pictures/РГ_Неделя_19.06.24.jpg" width="180" alt="РГ Неделя" title="РГ Неделя">
+    <img src="./pictures/РГ_Неделя_19.06.24.jpg" width="180" alt="RG Week" title="RG Week">
   </a>
 </div>
 
-> 🔍 *Все previews кликабельны. Файлы хранятся локально в `./pictures/`.*
+> 🔍 *All previews are clickable. Files are stored locally in `./pictures/`.*
