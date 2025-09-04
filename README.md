@@ -147,14 +147,31 @@
 Click on the preview to open the full document:
 
 <div align="center">
-  <a href="./pictures/2023-06-07_001.jpg">
-    <img src="./pictures/2023-06-07_001.jpg" width="180" alt="Диплом бакалавра" title="Click to open">
+  <a href="./pictures/ATiSO.jpg">
+    <img src="./pictures/ATiSO.jpg" width="180" alt="ATiSO" title="Click to open">
   </a>
-  <a href="./pictures/cert_1t_internship.pdf">
-    <img src="./pictures/preview_cert_1t.png" width="180" alt="Internship Certificate" title="Click to open">
+  <a href="./pictures/data_engineer.jpeg">
+    <img src="./pictures/data_engineer.jpeg" width="180" alt="Data Engineer" title="Click to open">
   </a>
-  <a href="./pictures/cert_terraform.pdf">
-    <img src="./pictures/preview_cert_terraform.png" width="180" alt="Terraform Certificate" title="Click to open">
+  <a href="./pictures/МГТУ_Баумана.jpg">
+    <img src="./pictures/МГТУ_Баумана.jpg" width="180" alt="Data Science" title="Click to open">
+  </a>
+  <a href="./pictures/Cert_DO.jpg">
+    <img src="./pictures/Cert_DO.jpg" width="180" alt="Cert_DO" title="Click to open">
+  </a>
+  <a href="./pictures/tech_analyst.jpg">
+    <img src="./pictures/tech_analyst.jpg" width="180" alt="tech_analyst" title="Click to open">
+  </a>
+</div>
+
+## 📜 Other docs
+
+<div align="center">
+  <a href="./pictures/Certificate.jpg">
+    <img src="./pictures/Certificate.jpg" width="83" alt="lct" title="Click to open">
+  </a>
+  <a href="./pictures/РГ[Неделя]19.06.24.jpg">
+    <img src="./pictures/РГ[Неделя]19.06.24.jpg" width="180" alt="РГ[Неделя]19.06.24" title="Click to open">
   </a>
 </div>
 
