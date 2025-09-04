@@ -118,7 +118,7 @@ This hybrid approach allows me to **fully control the data lifecycle** - from co
 
 ---
 
-## 💼 Work Experience
+## 💼 IT work experience
 
 ### **1T LLC** — Data Engineer / DevOps Engineer
  
