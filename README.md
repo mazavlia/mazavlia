@@ -1,6 +1,22 @@
-<h2 align="center">
+[//]: # (<div align="right">)
+
+[//]: # (  <a href="./README-ru.md">)
+
+[//]: # (    <img src="https://img.shields.io/badge/-Русский-FFFFFF?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDI0IDE2Ij48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMTYiIGZpbGw9IiNmZmYiLz48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iOCIgZmlsbD0iIzAwNjFlZiIvPjxyZWN0IHdpZHRoPSIyNCIgaGVpZ2h0PSI0IiBmaWxsPSIjZmYzZDA1Ii8+PC9zdmc+&labelColor=lightgrey&logoColor=white&style=for-the-badge&logoWidth=20&scale=1.2" alt="Русский" />)
+
+[//]: # (  </a>)
+
+[//]: # (</div>)
+
+<div align="right">
+  <a href="./README-ru.md">
+    <img src="https://img.shields.io/badge/-Русский-00A859?logo=image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDI0IDE2Ij48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMTYiIGZpbGw9IiNmZmYiLz48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iOCIgZmlsbD0iIzAwNjFlZiIvPjxyZWN0IHdpZHRoPSIyNCIgaGVpZ2h0PSI0IiBmaWxsPSIjZmYzZDA1Ii8+PC9zdmc+&logoColor=white&style=for-the-badge&logoWidth=20&scale=1.2" alt="Русский" />
+  </a>
+</div>
+
+<h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70px"> Hello, I'm Marina Zaporozhets!
-</h2>
+</h1>
 
 <!-- Typing animation -->
 <div align="center">
