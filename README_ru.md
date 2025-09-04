@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Привет, я Марина Запорожец!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70px"> Привет, я Марина Запорожец!
 </h1>
 
 <!-- Анимация с эффектом печати -->
