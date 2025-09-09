@@ -149,35 +149,62 @@ This hybrid approach allows me to **fully control the data lifecycle** - from co
 
 ---
 
-## 📜 Certificates & Diplomas
+[//]: # (## 📜 Certificates & Diplomas)
 
-<div align="center">
-  <a href="./pictures/ATiSO.jpg">
-    <img src="./pictures/ATiSO.jpg" width="180" alt="ATiSO Diploma" title="ATiSO Diploma">
-  </a>
-  <a href="./pictures/data_engineer.jpeg">
-    <img src="./pictures/data_engineer.jpeg" width="180" alt="Data Engineer Certificate" title="Data Engineer Certificate">
-  </a>
-  <a href="./pictures/МГТУ_Баумана.jpg">
-    <img src="./pictures/МГТУ_Баумана.jpg" width="180" alt="BMSTU Certificate" title="BMSTU Certificate">
-  </a>
-  <a href="./pictures/Cert_DO.jpg">
-    <img src="./pictures/Cert_DO.jpg" width="180" alt="DO Certificate" title="DO Certificate">
-  </a>
-  <a href="./pictures/tech_analyst.jpg">
-    <img src="./pictures/tech_analyst.jpg" width="180" alt="Technical Analyst Certificate" title="Technical Analyst Certificate">
-  </a>
-</div>
+[//]: # ()
+[//]: # (<div align="center">)
 
-## 📄 Other Documents
+[//]: # (  <a href="./pictures/ATiSO.jpg">)
 
-<div align="center">
-  <a href="./pictures/Certificate.jpg">
-    <img src="./pictures/Certificate.jpg" width="83" alt="Certificate" title="Certificate">
-  </a>
-  <a href="./pictures/РГ_Неделя_19.06.24.jpg">
-    <img src="./pictures/РГ_Неделя_19.06.24.jpg" width="180" alt="RG Week" title="RG Week">
-  </a>
-</div>
+[//]: # (    <img src="./pictures/ATiSO.jpg" width="180" alt="ATiSO Diploma" title="ATiSO Diploma">)
 
-> 🔍 *All previews are clickable. Files are stored locally in `./pictures/`.*
+[//]: # (  </a>)
+
+[//]: # (  <a href="./pictures/data_engineer.jpeg">)
+
+[//]: # (    <img src="./pictures/data_engineer.jpeg" width="180" alt="Data Engineer Certificate" title="Data Engineer Certificate">)
+
+[//]: # (  </a>)
+
+[//]: # (  <a href="./pictures/МГТУ_Баумана.jpg">)
+
+[//]: # (    <img src="./pictures/МГТУ_Баумана.jpg" width="180" alt="BMSTU Certificate" title="BMSTU Certificate">)
+
+[//]: # (  </a>)
+
+[//]: # (  <a href="./pictures/Cert_DO.jpg">)
+
+[//]: # (    <img src="./pictures/Cert_DO.jpg" width="180" alt="DO Certificate" title="DO Certificate">)
+
+[//]: # (  </a>)
+
+[//]: # (  <a href="./pictures/tech_analyst.jpg">)
+
+[//]: # (    <img src="./pictures/tech_analyst.jpg" width="180" alt="Technical Analyst Certificate" title="Technical Analyst Certificate">)
+
+[//]: # (  </a>)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (## 📄 Other Documents)
+
+[//]: # ()
+[//]: # (<div align="center">)
+
+[//]: # (  <a href="./pictures/Certificate.jpg">)
+
+[//]: # (    <img src="./pictures/Certificate.jpg" width="83" alt="Certificate" title="Certificate">)
+
+[//]: # (  </a>)
+
+[//]: # (  <a href="./pictures/РГ_Неделя_19.06.24.jpg">)
+
+[//]: # (    <img src="./pictures/РГ_Неделя_19.06.24.jpg" width="180" alt="RG Week" title="RG Week">)
+
+[//]: # (  </a>)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (> 🔍 *All previews are clickable. Files are stored locally in `./pictures/`.*)
