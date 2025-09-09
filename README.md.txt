@@ -13,13 +13,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0CF72A&center=true&vCenter=true&width=435&lines=Data+Engineer;DevOps+Engineer;LLM+Ops+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <br/>
-  <a href="https://mazavlia.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio" />
-  </a>
-</div>
-
 ---
 
 ## 👋 About Me
@@ -71,9 +64,19 @@ This hybrid approach allows me to **fully control the data lifecycle** - from co
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mazavlia&title=-Issues,-Reviews" alt="GitHub Trophies" />
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://github-profile-trophy.vercel.app/?username=mazavlia&title=-Issues,-Reviews" alt="GitHub Trophies" width="300" 
+       style="opacity: 0; transition: opacity 1.5s ease-in-out; animation: fadeIn 1.5s ease-in-out forwards;"
+       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.2)';"
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)';" />
 </div>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+</style>
 
 ---
 
