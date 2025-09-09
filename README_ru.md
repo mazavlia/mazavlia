@@ -136,35 +136,62 @@
 
 ---
 
-## 📜 Дипломы и удостоверения об образовании
+[//]: # (## 📜 Дипломы и удостоверения об образовании)
 
-<div align="center">
-  <a href="./pictures/ATiSO.jpg">
-    <img src="./pictures/ATiSO.jpg" width="180" alt="Диплом ATiSO" title="Диплом ATiSO">
-  </a>
-  <a href="./pictures/data_engineer.jpeg">
-    <img src="./pictures/data_engineer.jpeg" width="180" alt="Сертификат Data Engineer" title="Сертификат Data Engineer">
-  </a>
-  <a href="./pictures/МГТУ_Баумана.jpg">
-    <img src="./pictures/МГТУ_Баумана.jpg" width="180" alt="Сертификат МГТУ" title="Сертификат МГТУ">
-  </a>
-  <a href="./pictures/Cert_DO.jpg">
-    <img src="./pictures/Cert_DO.jpg" width="180" alt="Сертификат DO" title="Сертификат DO">
-  </a>
-  <a href="./pictures/tech_analyst.jpg">
-    <img src="./pictures/tech_analyst.jpg" width="180" alt="Сертификат Technical Analyst" title="Сертификат Technical Analyst">
-  </a>
-</div>
+[//]: # ()
+[//]: # (<div align="center">)
 
-## 📄 Другие документы
+[//]: # (  <a href="./pictures/ATiSO.jpg">)
 
-<div align="center">
-  <a href="./pictures/Certificate.jpg">
-    <img src="./pictures/Certificate.jpg" width="83" alt="Сертификат" title="Сертификат">
-  </a>
-  <a href="./pictures/РГ_Неделя_19.06.24.jpg">
-    <img src="./pictures/РГ_Неделя_19.06.24.jpg" width="180" alt="РГ Неделя" title="РГ Неделя">
-  </a>
-</div>
+[//]: # (    <img src="./pictures/ATiSO.jpg" width="180" alt="Диплом ATiSO" title="Диплом ATiSO">)
 
-> 🔍 *Все превью кликабельны. Файлы хранятся в директории `./pictures/`.*
+[//]: # (  </a>)
+
+[//]: # (  <a href="./pictures/data_engineer.jpeg">)
+
+[//]: # (    <img src="./pictures/data_engineer.jpeg" width="180" alt="Сертификат Data Engineer" title="Сертификат Data Engineer">)
+
+[//]: # (  </a>)
+
+[//]: # (  <a href="./pictures/МГТУ_Баумана.jpg">)
+
+[//]: # (    <img src="./pictures/МГТУ_Баумана.jpg" width="180" alt="Сертификат МГТУ" title="Сертификат МГТУ">)
+
+[//]: # (  </a>)
+
+[//]: # (  <a href="./pictures/Cert_DO.jpg">)
+
+[//]: # (    <img src="./pictures/Cert_DO.jpg" width="180" alt="Сертификат DO" title="Сертификат DO">)
+
+[//]: # (  </a>)
+
+[//]: # (  <a href="./pictures/tech_analyst.jpg">)
+
+[//]: # (    <img src="./pictures/tech_analyst.jpg" width="180" alt="Сертификат Technical Analyst" title="Сертификат Technical Analyst">)
+
+[//]: # (  </a>)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (## 📄 Другие документы)
+
+[//]: # ()
+[//]: # (<div align="center">)
+
+[//]: # (  <a href="./pictures/Certificate.jpg">)
+
+[//]: # (    <img src="./pictures/Certificate.jpg" width="83" alt="Сертификат" title="Сертификат">)
+
+[//]: # (  </a>)
+
+[//]: # (  <a href="./pictures/РГ_Неделя_19.06.24.jpg">)
+
+[//]: # (    <img src="./pictures/РГ_Неделя_19.06.24.jpg" width="180" alt="РГ Неделя" title="РГ Неделя">)
+
+[//]: # (  </a>)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (> 🔍 *Все превью кликабельны. Файлы хранятся в директории `./pictures/`.*)
