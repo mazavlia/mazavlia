@@ -1,6 +1,6 @@
 <div align="right">
 
-[![English](https://img.shields.io/badge/-English-00A859?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiA4Ij48cmVjdCBmaWxsPSIjMDA1NGI5IiB3aWR0aD0iMTYiIGhlaWdodD0iOCIvPjxyZWN0IGZpbGw9IiNmZmYiIHdpZHRoPSIxNiIgaGVpZ2h0PSIyIi8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAsMmg0djJoMnYtMmg0djJoLTJ2MmgtNHoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMCA2aDR2MmgtNFoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTIsMGg0djJoLTR6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTgsNmg0djJoLTR6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAsNGg4djJoLTgiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTIsNGg0djJoLTE2VjRoNnoiLz48cGF0aCBmaWxsPSIjMDA1NGI5IiBkPSJNMCAwaDZ2Mkgwek0xMCwwaDR2MkgxMHoiLz48cGF0aCBmaWxsPSIjMDA1NGI5IiBkPSJNMCA2aDR2Mkgwek02LDZoMTJ2Mkg2eiIvPjwvc3ZnPg==&logoColor=white&style=for-the-badge&logoWidth=20&scale=1.2)](./README.md.txt)
+[![English](https://img.shields.io/badge/-English-00A859?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiA4Ij48cmVjdCBmaWxsPSIjMDA1NGI5IiB3aWR0aD0iMTYiIGhlaWdodD0iOCIvPjxyZWN0IGZpbGw9IiNmZmYiIHdpZHRoPSIxNiIgaGVpZ2h0PSIyIi8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAsMmg0djJoMnYtMmg0djJoLTJ2MmgtNHoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMCA2aDR2MmgtNFoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTIsMGg0djJoLTR6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTgsNmg0djJoLTR6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAsNGg4djJoLTgiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTIsNGg0djJoLTE2VjRoNnoiLz48cGF0aCBmaWxsPSIjMDA1NGI5IiBkPSJNMCAwaDZ2Mkgwek0xMCwwaDR2MkgxMHoiLz48cGF0aCBmaWxsPSIjMDA1NGI5IiBkPSJNMCA2aDR2Mkgwek02LDZoMTJ2Mkg2eiIvPjwvc3ZnPg==&logoColor=white&style=for-the-badge&logoWidth=20&scale=1.2)](./README.md)
 
 </div>
 
@@ -11,6 +11,13 @@
 <!-- Анимация с эффектом печати -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0CF72A&center=true&vCenter=true&width=435&lines=Data+Engineer;DevOps+Engineer;LLM+Ops+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <br/>
+  <a href="https://mazavlia.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Просмотр_портфолио-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio" />
+  </a>
 </div>
 
 ---
